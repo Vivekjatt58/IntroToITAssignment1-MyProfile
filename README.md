@@ -1,1 +1,182 @@
 # IntroToITAssignment1-MyProfile
+<!DOCtype html>
+<html>
+ <head>
+ <title>Assignment 1</title>
+ </head>
+ <body background="">
+<h1 align = "center"><font size = "6" color = "navy blue">PERSONAL INFORMATION</h1></font>
+  <img src="vivek1.jpg">
+<br /><br /><br />
+<ul>
+<li><b>Name</b> = Vivek Chaudhary</li>
+<li>
+<b>Student Number</b> = s3932078
+</li>
+<li>
+<b>Student Email Address</b> = s3932078@student.rmit.edu.au
+</li>
+<li>
+<b>Nationality and Culture</b> = Indian
+</li>
+<li>
+<b>Language spoken</b> = Hindi(mother tongue) and Engligh
+</li>
+<li>
+<b>Interest or Hobby:-</b>
+      <ol>
+       <li>Listening Music</li>
+       <li>Playing mobile game mainly PUBG</li>
+       <li>I love dogs</li>
+       <li>Playing Cricket
+      </ol>
+</li>
+</ul>
+<br /><br /><br /><br />
+<h2 align = "center"><font size = "6" color = "navy blue">INTEREST IN IT</h2></font>
+<ul>
+<li>My interest in IT is based mainly on <b>programming and application development </b>(including game development). My interest in IT starts when I purchased my fisrt PC and started doing some programming.</li>
+<li>As we know <b>RMIT </b>is one of the biggest university in Australia and as I chose to study IT so <b>RMIT</b> is one of the best option for me as a international student. Professors in <b>RMIT </b>have excellent knowledge about their field and they can guid me in achieving my goals in my life  </li>
+<li>During my studying IT in <b>RMIT</b> I am expecting that I am going to master programming, learn mobile application development,learn database concepts and learn what is the importance of IT in daily life.</li>
+</ul>
+<br /><br /><br /><br />
+<h3 align = center><font size = "6" color = "navy blue">IDEAL JOB</h3></font>
+<h>
+  <font size= "5" color="green"><u><b>Mobile App Developer</b></u></font>
+</h>
+<br /><br /><br /><br />
+<img src="seekjobAd.png">
+<br /><br /><br /><br />
+<a href= "https://www.seek.com.au/job/56152403?type=standard#sol=bc7f62eb2273ce1bb06095e180ea5c4b97e498e7"><b>Job link </b></a>
+<br /><br /><br /><br />
+<ul><li>The position of this job is Mobile App Developer in the company name Redx Technology Australia. I found this job on Seek.com.</li>
+  <br /><br />
+<li><b>Things that make this job appealing to me are:-</b>
+<br /><br />
+<ol>
+<li>As I am doing IT and i will learn lots of programming and this job is all about programming.</li>
+<li>I am already having so much interest in app development so i thing this job is very much suitable for me.</li>
+<li>The location of this job is in Australia which is also a good thing for me.</li>
+</ol>
+<br /><br />
+<li><b>Job Requirements</b></li>
+<br /><br />
+<ol>
+  <li>Previous knowledge of mobile app development(android and IOS).</li>
+  <li>Knows programming languages, e.g. Python, java,and C/C++</li>
+  <li>Have knowledge of cloud architecture, security, designing and consuming RESTful APIs, web development.</li>
+  <li>Have experience with development tools.</li>
+  <li>Qualification required - A degree in the field of IT or computer science.</li>
+</ol>
+<br /><br />
+<li><b>Skills I am having currently:- </b></li>
+<br /><br />
+<ol>
+  <li>I have only some basic knowledge of programming.</li>
+  <li>As my course just started so I am currently havingf some basic computer knowledge and i do not have any app development knowledge.</li>
+  <li>Currently, I do not have any degree.
+</ol>
+<br /><br />
+<li><b>How I am going to  obtain all the requirments needed for this job:-</b></li>
+<br /><br />
+<ol>
+  <li>During my course period I will acquire the skills of web development and app development with the help of the RMIT Professors.</li>
+  <li>I also master the all required programming languages like Python, java and C/C++. </li>
+  <li>By doing my course assignments I will get lots of knowledge that will help me in getting this job.</li>
+  <li>By successfully completion of my Bechalor of IT course from RMIT and I'll get my degree. </li>
+</ol>
+</ul>
+<br /><br /><br /><br />
+<h4 align = "center"><font size = "6" color = "navy blue">PERSONAL PROFILE</h4></font>
+<ul>
+  <br /><br /><br />
+  <li><h><font size = "5" color = green><b>Online Myers-Briggs Test Result:-</b></h></li></font>
+    <br /><br /><br />
+    <img src = "myers.png" alt="Myers-Briggs Test" width="600" height="400">
+    <br /><br /><br />
+  <li><h><font size = "5" color = green><b>Online Learning Style Test Result:-</b></h></li></font>
+    <br /><br /><br />
+    <img src="ls.png" width="500" height="600">
+    <br /><br /><br />
+  <li><h><font size = "5" color = green><b>The Big Five Personality Test Result:-</b></h></li> </font>
+    <br /><br /><br />
+    <img src="big5 (1).png" width="600" height="400">
+    <br /><br /><br /><br />
+    <li>For me these type of test build profile of an individual so others can understand one's capability of doing any work. If other team members see my result of these test and find me as a good or bad option for their team, that may influence my behaviour in a team. When forming a team it's important to know the capabilities of each team member, these type of test help to find out how they see the world and how they prefer act and these tests also helps in building team profile, which can be used to bridge understanding and improve team collaboration.     </li>
+    <br /><br /><br /><br />
+    <h4 align = center><font size = "6" color = "navy blue">PROJECT IDEA</h4></font>
+    <br /><br /><br /><br />
+    <ul>
+    <li><b>	FINGERPRINT AND IRIS SCAN BASED ATM SYSTEM: -</b></li>
+    </ul>
+    <br /><br />
+    <p1><b>Overview: -</b>
+    <br /><br />
+    Fingerprint based ATM is a computer application in which user save their fingerprint and their iris for authentication. The user also chooses whether they want to use fingerprint or iris or both as a mode of authentication. As everyone knows that every person has unique fingerprint and iris so the users can be identified uniquely. Using Fingerprint or Iris scan-based ATM instead of ATM card is much safer and more secure. By using this system there is no need to carry ATM card and no worry of losing ATM card. Users can withdraw money from ATM machine by just using their fingerprint or iris scanning.</p1>
+    <br /><br />
+    <p2><b>Motivation: -</b>
+      <br /><br />
+      In Australia nearly two million ATM cards reported lost or stolen per year. One in eight persons in Australia lose their ATM card every year. By losing the ATM cards people become angry and upset. So here is my project idea to solve this problem. If people start using this application, they are not required to carry their ATM cards. Hence, amount of people who losing an ATM card will reduce, which will help everyone who faced these kinds of situations like losing or stolen of an ATM card. Many people find my project very useful mainly who lost their ATM card, or their ATM was stolen by somebody.
+    </p2>
+    <br /><br />
+    <p3><b>Description:-</b>
+      <br /><br />
+      The aim of the project ‘Fingerprint and Iris scan-based ATM system’ is that everyone can access money without using actual ATM card. In this project I am using the fingerprint and iris scan biometrics. Users can store their biometrics (fingerprint and iris scan) in the database. User can set up their account and record either their fingerprint scan or iris scan or both. Users just have to use their fingerprint or iris scan to do any banking transection. Users have to set up a pin code which is asked by the software to enter before completing a transection, by adding the pin code this become more secure and more efficient to use and user now can trust this system because it has triple layer protection i.e. Fingerprint, iris scan and pin code. By using this software, users can withdraw funds from their bank account. Funds can be transfer from one account to another account by providing the appropriate account number. In order to withdraw money users must enter the amount. Transections can only be complete when there is money available in the account of the user. Also the account balance can be viewed by the users available in their respective account. This triple layer protection for any transection can help in maintaining the secure environment. If a user wants to add an additional fourth layer of getting an OTP in every transection than user can enable it. The main aim of our project is to provide more secure ATM system and provide fingerprint as the authorize identity of the user.
+      <br /><br />
+      <b>Advantages: -</b>
+      <br /><br />
+      <ul>
+        <li>	Fingerprint and iris scan-based ATM system is more secure than normal ATM card.</li>
+        <li>	Now there is no need to carry an ATM card as they can make transaction by using their fingerprint and iris scan anywhere and at anytime.</li>
+        <li>	High security and confirmation - Biometric distinguishing proof gives the responses to "something an individual has and will be" and checks identity.</li>
+        <li>	Client Experience - Convenient and quick.</li>
+        <li>	Biometrics are non-transferrable every user has unique fingerprint and iris scan.</li>
+        <li>	Parody resistant - Biometrics are difficult to fake or steal.</li>
+        <li>•	Fingerprints and iris scan are accurate.</li>
+      </ul>
+      <br /><br />
+      <b> Disadvantages: -</b>
+      <br /><br />
+      <ul>
+        <li>•	In any case the user having any cut or damaged fingerprint patter the system might not recognize the user.</li>
+        <li>•	Both fingerprint scan and iris scan are not working properly.</li>
+        <li>•	Biometrics database can be hacked.</li>
+        <li>•	Machine learning and calculations should be exceptionally cutting-edge to limit biometric segment inclination.</li>
+        <li>•	Physical disabilities like a burnt or damaged finger, a retina transplants, tattooed hands or if the user is wearing glasses (and usually doesn’t) or vice versa.
+              In these type of situations, the confirmation strategy should be changed to give approved client access, which can be awkward.</li>
+        <li>•	To set up biometrics security a significant venture required.</li>
+        <br /><br />
+        <li><b>Data breaches: </b>Organizations and legislatures that gather and store clients' very own information are under steady danger from programmers. Since biometric information is indispensable, associations need to treat delicate biometric information with expanded security and wariness - something costly and in fact troublesome to remain in front of extortion headways. In the event that a secret key or pin is compromised, there's generally the chance of evolving it. The equivalent can't be said for an individual's physiological or conduct biometrics.</li>
+    </ul>
+  </p4>
+    <br /><br />
+    <p4><b>Tools And Technologies Required: -</b>
+      <br /><br />
+      <ul>
+        <li>	OS Windows 7 and above or macOS because these are stable and support more features</li>.
+        <li>	 Database MySQL/No SQL is utilized as Database as it is not difficult to maintain and recover records by basic queries which are in English language which are not difficult to understand, easy to compose.</li>
+        <li>	development tools and programing language will be use are JavaScript , HTML.</li>
+      </ul>
+      <br /><br />
+      <b>Hardware required: -</b>
+        <br /><br />
+        <ul>
+          <li>	Intel Core i3 or higher processor.</li>
+          <li>	Minimum 512 MB of RAM and 1.5 GB of free space or higher is required.</li>
+          <li>	Fingerprint scanner and Iris scanner is required.<li/>
+        </ul>
+        <br /><br />
+        <b>Skills Required: -</b>
+        <br /><br />
+        <ul>
+          <li>•	Programming languages required including JavaScript, HTML, Python and C++.</li>
+          <li>•	Web developing knowledge.</li>
+            <br /><br />
+          <li>Software need to be written is a application which allows every user to use their biometrics (fingerprint and iris scan) to do all the transections, to write this software JavaScript, HTML and PHP can be used these are most convenient for this software. </li>
+          <li>Special hardware required are a fingerprint scanner and a iris scanner to record the biometrics and every user who want to record their biometrics have access to biometric scanners in their respective desktops.</li>
+          <li>All these skills, software and special hardware are very easy to find. I’ll develop all the required skills during my course (i.e., Bachelors of IT).</li>
+        </ul>
+          <br /><br />
+      <b>Outcome: -</b>
+          <br /><br />
+          <p>If this project become successful than it solves various daily life problems such as lost and stolen of an ATM card because there is no need to carry ATM card anywhere, every user can do transections in more convenient and safer way by using their biometrics (fingerprint and iris scan). Everyone wants secure environment to transfer money, It provides a triple layer security (fingerprint, iris scan and pin code) for user’s every transaction. Overall this project idea can provide a secure platform to do banking transactions using ATM details.</p>
